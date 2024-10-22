@@ -1,4 +1,3 @@
-import React from 'react'
 import MaxWidthWrapper from '../max-width-wrapper'
 import DisplayCard from '../display-card'
 
